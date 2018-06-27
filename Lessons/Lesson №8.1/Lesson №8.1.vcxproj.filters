@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Class.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbstractionClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{57798b13-b9be-4e57-818f-3f272a1dc203}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{06945a4e-a22a-4e8c-acf0-e78b58ccfa32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{a767e286-9b3a-4755-b5d4-6a305bfbe18a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
