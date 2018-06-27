@@ -10,6 +10,8 @@ My older projects. i was studying CPP for the academic purposes with my math tut
 
 4. [Simple Vector Class](https://github.com/vnikifirov/CPP/tree/master/calc-len-vector)
 
+5. [Simple Message Service written in VSCode ](https://github.com/vnikifirov/CPP/tree/master/VSCode_MessageService)
+
 # Note
 * If you want to reach out to me, feel free. Here's my Twitter: @nikifovadim and email: nikifovadim@gmail.com
 

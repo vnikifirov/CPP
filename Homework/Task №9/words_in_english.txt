@@ -1,0 +1,17 @@
+dominance	Herrschaft
+generalization	Verallgemeinerung
+standalone	Standalone 
+merge		verschmelzen
+entities	Entitäten
+executive	Exekutive
+fearful		ängstlich
+fondly		liebevoll
+cow		Kuh
+deserved	verdient
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+1 Maria Alexandrovna 20
+2 Masha Andreevna 44
+3 Anton Kuchnarenko 18
+4 Nikolai Bulatov 22
+5 Vladimir Ivanovich 29
+6 Anna Dmitrievna 27
