@@ -2,18 +2,14 @@
 My older projects. i was studying CPP for the academic purposes with my math tutor
 
 # Content at a Glance:
-1. [Arrays and matrix](https://github.com/vnikifirov/CPP/tree/master/arrays-and-matrix)
+1. [Homework](https://github.com/vnikifirov/CPP/tree/not_refactored/Homework)
 
-2. [Pointers and strings](https://github.com/vnikifirov/CPP/tree/master/pointers-and-strings)
+2. [Samples/Examples](https://github.com/vnikifirov/CPP/tree/not_refactored/Samples)
 
-3. [Simple Stack App](https://github.com/vnikifirov/CPP/tree/master/simple-stack-app)
-
-4. [Simple Vector Class](https://github.com/vnikifirov/CPP/tree/master/calc-len-vector)
-
-5. [Simple Message Service written in VSCode ](https://github.com/vnikifirov/CPP/tree/master/VSCode_MessageService)
+3. [Lessons/Exercises](https://github.com/vnikifirov/CPP/tree/not_refactored/Lessons)
 
 # Note
-* If you want to reach out to me, feel free. Here's my Twitter: @nikifovadim and email: nikifovadim@gmail.com
+* If you want to reach out to me, feel free. Here's [Linkedin](https://www.linkedin.com/in/vadim-nikiforov-742260155/) my [Twitter](https://twitter.com/nikifovadim) and email: nikifovadim@gmail.com
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
 
